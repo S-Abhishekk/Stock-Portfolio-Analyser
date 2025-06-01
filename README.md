@@ -1,4 +1,4 @@
-# 📈 StockSensE – Intelligent Stock Analysis & Forecasting Engine
+# 📈 StockSense – Intelligent Stock Analysis & Forecasting Engine
 
 StockSensE is an intelligent, open-source platform designed to simplify and enhance stock market analysis using cutting-edge machine learning and financial modeling. It empowers retail investors, data scientists, and fintech developers to gain meaningful insights, visualize stock performance, and forecast trends using clean, structured financial data.
 
